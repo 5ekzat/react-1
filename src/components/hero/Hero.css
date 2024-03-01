@@ -1,0 +1,72 @@
+.hero{
+    margin-top: 118px;
+    
+}
+.hero-text {
+    display: flex;
+    justify-content: space-between;
+}
+.hero-text button{
+    border: none;
+    width: 180px;
+    height: 40px;
+    background: #00A4E5;
+    font-family: OpenSans;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: white;
+}
+.hero-text button:hover{
+    color: #00A4E5;
+    background: white;
+    border: 1px solid #00A4E5;
+}
+.hero-text p{
+    font-family: OpenSans;
+    font-size: 11px;
+    line-height: 19px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    width: 405.4px;
+    height: 38px;
+    left: 353px;
+}
+.HeroImg{
+    width: 199px;
+    height: 36px;
+    padding: 0px, 1px, 0px, 0px;
+
+}
+.hero-icon {
+    display: flex;
+    margin-top: 78px;
+    justify-content: space-between;
+}
+.hero-icon-block{
+    padding-top: 38px;
+    padding-left: 23px;
+    width: 30%;
+    height: 330px;
+    border: 1px solid #E6E6E6;
+}
+.hero-icon-block h6 {
+    font-family: OpenSans;
+    font-size: 16px;
+    line-height: 24px;
+    color: #48555B;
+    margin-top: 25px;
+    margin-bottom: 13px;
+    width: 250px;
+    height: 48px;
+}
+.hero-icon-block p{
+    font-family: OpenSans;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0.18750004470348358px;
+    text-align: left;
+    color: #48555B;
+    
+}

@@ -1,0 +1,31 @@
+.footer{
+    background: #141A20;
+    height: 240px;
+    display: flex;
+    align-items: center;
+}
+.footer-ittem{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #ffffff;
+    font-family: OpenSans;
+font-size: 11px;
+line-height: 19px;
+letter-spacing: 0.8500000238418579px;
+text-align: left;
+}
+
+.footer-block1{
+    width: 250px;
+}
+.footer-block2{
+    display: flex;
+    
+}
+.footer-block-small ul{
+    list-style-type: none;
+}
+.footer-block3{
+    width: 141px;
+}

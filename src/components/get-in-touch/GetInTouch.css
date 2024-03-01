@@ -1,0 +1,36 @@
+.cityImage{
+    height: 500px;
+    background-image: url('../../assest/bg2.png');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.cityImage h3{
+    font-family: OpenSans;
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: 0.15000000596046448px;
+    text-align: center;
+    width: 350px;
+    height: 72px;
+    margin-bottom: 35px;
+    color: #48555B;
+}
+.cityImage button{
+    border: none;
+    width: 180px;
+    height: 40px;
+    background: #00A4E5;
+    font-family: OpenSans;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: white;
+}
+.cityImage   button:hover{
+    color: #00A4E5;
+    background: white;
+    border: 1px solid #00A4E5;
+}

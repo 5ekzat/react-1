@@ -1,0 +1,25 @@
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 65px;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+}
+.list li {
+    list-style: none;
+    margin-left: 30px;
+    font-family: OpenSans;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 1.0909091234207153px;
+    text-align: left;
+    color: #48555B;
+}
+.list li:hover{
+    color: #00A4E5;
+
+}

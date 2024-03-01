@@ -1,0 +1,58 @@
+.card1 {
+    background-image: url('../../assest/Bitmap.png');
+}
+.card2 {
+    background-image: url('../../assest/Bitmap2.png');
+}
+.card3 {
+    background-image: url('../../assest/Bitmap3.png');
+}
+.history {
+    margin-top: 58px;
+    
+}
+.history-h4 {
+    text-align: center;
+    margin-bottom: 88px;
+    font-family: OpenSans;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 2.3062498569488525px;
+    text-align: center;
+    color: #48555B;
+
+}
+/* .history-h4:hover {
+    border-bottom-width: 50px;
+    border-bottom:2px solid #00A4E5;
+} */
+.history-card{
+    width: 140px;
+    height: 224px;
+}
+.history-inner{
+    display: flex;
+   
+}
+.history-text {
+    width: 50%;
+    margin-right: 50px;
+}
+
+.history-text h6{
+    font-family: OpenSans;
+    font-size: 20px;
+}
+.history-text p{
+    font-family: OpenSans;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0.18750004470348358px;
+    text-align: left;
+    margin-top: 65px;
+}
+.history-cards{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+} 
